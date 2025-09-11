@@ -1,7 +1,7 @@
 const HeroSection=()=>{
     return(
         <div className="landing-page-content relative">
-            <div className="absolite inset-0 bg-gradient-to-r from-purple-50 to-indigo-50 opacity-80 z-0 pointer-events-none">
+            <div className="absolute inset-0 bg-gradient-to-r from-purple-50 to-indigo-50 opacity-80 z-0 pointer-events-none">
 
             </div>
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
