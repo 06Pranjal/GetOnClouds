@@ -4,3 +4,19 @@
 *{
   font-family: 'Urbanist',sans-serif;
 }
+
+/* .landing-page-content{
+  @apply overflow-visible;
+}
+
+.card-btn{
+  @apply flex items-center gap-3 text-[12px] font-medium text-gray-600 hover:text-purplle;
+}
+
+.add-btn{
+  @apply flex items-center gap-1.5 text-xs md:text-sm font-medium text-green-700;
+}
+
+.add-btn-fill{
+  @apply text-white bg-purple-600;
+} */
