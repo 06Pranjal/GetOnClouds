@@ -40,6 +40,14 @@ const HeroSection = () => {
               className="w-full h-full object-cover"
             />
           </div>
+          <div className="absolute inset-0 bg-gradient-to-t from-black opacity-10 rounded-lg">
+
+          </div>
+        </div>
+        <div className="mt-8 text-center">
+            <p className="mt-4 text-base text-gray-500">
+                All your files are encrypted and stored securely with enterprise-grade security protocol
+            </p>
         </div>
       </div>
     </div>
