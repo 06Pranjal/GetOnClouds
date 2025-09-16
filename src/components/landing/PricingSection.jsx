@@ -1,4 +1,4 @@
-const PricingSections=()=>{
+const PricingSections=({pricingPlans})=>{
     return(
         <div>Pricing Sections</div>
     )

@@ -13,7 +13,7 @@ const Landing = () => {
     <div className="landing-page bg-gradient-to-b from-gray-50 to-gray-100">
       <HeroSection />
       <FeaturesSection features={features} />
-      <PricingSection />
+      <PricingSection pricingPlans={pricingPlans}/>
       <TestimonialsSections />
       <CTASection />
       <FooterSection />
