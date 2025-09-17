@@ -34,7 +34,7 @@ export const features = [
 export const pricingPlans = [
   {
     name: "Starter",
-    price: "$9/month",
+    price: "Rs 500/month",
     description: "Perfect for individuals just getting started.",
     features: [
       "5 GB Storage",
@@ -42,12 +42,12 @@ export const pricingPlans = [
       "Single User",
       "Access to Core Features"
     ],
-    cta: "Get Started",
+    cta: "Upgrade Now",
     highlighted: false
   },
   {
     name: "Pro",
-    price: "$29/month",
+    price: "Rs 1500/month",
     description: "Ideal for small teams and growing businesses.",
     features: [
       "50 GB Storage",
@@ -57,11 +57,11 @@ export const pricingPlans = [
       "Custom Branding"
     ],
     cta: "Upgrade Now",
-    highlighted: true
+    highlighted: false
   },
   {
     name: "Enterprise",
-    price: "$99/month",
+    price: "Rs 2500/month",
     description: "For large organizations needing full control.",
     features: [
       "Unlimited Storage",
@@ -70,7 +70,7 @@ export const pricingPlans = [
       "Advanced Security Features",
       "Custom Integrations"
     ],
-    cta: "Contact Sales",
+    cta: "Upgrade Now",
     highlighted: false
   }
 ];
